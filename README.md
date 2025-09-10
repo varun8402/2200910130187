@@ -6,9 +6,14 @@ Microservice for url shortener
 ## Screenshots
 
 Add two images demonstrating API usage in Postman.
-
-![Postman Screenshot 1](./docs/postman-1.png)
+- For the creation of url
 ![Postman Screenshot 2](./docs/postman-2.png)
+
+
+-For getting details of url 
+![Postman Screenshot 1](./docs/postman-1.png)
+
+
 
 ## Run locally
 
