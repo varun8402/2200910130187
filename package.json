@@ -1,0 +1,29 @@
+{
+  "name": "backendtest",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/varun8402/2200910130187#readme",
+  "bugs": {
+    "url": "https://github.com/varun8402/2200910130187/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun8402/2200910130187.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
